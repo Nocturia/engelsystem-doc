@@ -1,11 +1,18 @@
 ---
 title: "Installation"
 date: 2019-02-13T19:35:37+01:00
+weight: 10
 ---
 
 ## Requirements
 
+The system requirements of the engelsystem can be found in the repositories
+[readme](https://github.com/engelsystem/engelsystem?tab=readme-ov-file#requirements) file.
+
 ## Download
+
+How to download the Engelsystem is described in the projects'
+[readme](https://github.com/engelsystem/engelsystem?tab=readme-ov-file#download).
 
 ## Database
 
@@ -41,7 +48,7 @@ cp config/config.default.php config/config.php
 
 The first and most important settings are the database connection parameters.
 
-For more details see [configuration]({{< ref "configuration" >}}).
+For more details see [configuration]({{% ref "configuration" %}}).
 
 ## Webserver
 
